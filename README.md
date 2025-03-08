@@ -9,7 +9,7 @@
 # heir
 
 Healthy Eating Index (HEI) scoring is not the simplest of calculations.
-But this package simply does it\! Function hei() will compute HEI-2015
+But this package simply does it\! Function `hei()` will compute HEI-2015
 total and component scores using data from ‘ASA24’ (2016 version and
 subsequent versions). It implements the ‘simple HEI scoring algorithm’
 as described at
